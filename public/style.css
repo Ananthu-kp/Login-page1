@@ -1,0 +1,21 @@
+body{
+    font-family: open sans-serif;
+    background-image: url('/assets/logpic.jpg');
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+.center-div{
+    padding-top: 10%;
+}
+
+/* .btn.btn-success{
+    padding: 4em 2em;
+} */
+
+form{
+    padding: 0 3em;
+}
+
+#login.title>span{
+    font-size: .8em;
+}
